@@ -3,24 +3,21 @@
     "title": "Project A",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Node"],
     "source": "https://www.github.com"
   },
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Node", "Sass"],
     "source": "https://www.github.com"
   },
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Node"],
     "source": "https://www.github.com"
   }
 ]

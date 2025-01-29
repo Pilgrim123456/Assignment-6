@@ -5,25 +5,30 @@
     "startDate": "November, 2024",
     "endDate": "Present",
     "experiences": ["Worked on WiZR-X"],
-    "imageSrc": "masterwizr.png"
+    "imageSrc": "history/masterwizr.png"
   },
   {
     "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
+    "organisation": "ECONET Global",
+    "startDate": "Sept, 2021",
     "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "experiences": ["Worked on the USSD platform"],
+    "imageSrc": "history/econet.png"
   },
   {
     "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+    "organisation": "TelOne",
+    "startDate": "Apr, 2021",
+    "endDate": "Aug, 2022",
+    "experiences":["Helped create UI components"],
+    "imageSrc": "history/telone.png"
+  },
+  {
+    "role": "Chief Engineer",
+    "organisation": "PIL",
+    "startDate": "Sept, 2021",
+    "endDate": "Present",
+    "experiences": ["Founded the System"],
+    "imageSrc": "history/latestlogo.jpg"
   }
 ]
